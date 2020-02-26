@@ -1,0 +1,94 @@
+"lang"
+{
+	"Language" "English"
+	"Tokens"
+	{
+		"Cstrike_TitlesTXT_Bomb_Defused"					"Bomb defused"
+		"Cstrike_TitlesTXT_Bomb_Planted"					"Bomb planted (%s1 seconds left)"
+		"SFUI_Notice_YouDroppedWeapon"						"Dropped %s1"
+
+		"Panorama_FreezePanel_DamageTaken"					"<font color='#A0A0A0'>Damage taken: </font><font color='#CC0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> in</font> <font color='#CC0000'><b>{d:hits_taken} hit </b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageGiven"					"<font color='#A0A0A0'>Damage given: </font><font color='#7ebc50'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> in</font> <font color='#7ebc50'><b>{d:hits_given} hit </b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageTaken_Multi"			"<font color='#A0A0A0'>Damage taken: </font><font color='#CC0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> in</font> <font color='#CC0000'><b>{d:hits_taken} hits </b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
+		"Panorama_FreezePanel_DamageGiven_Multi"			"<font color='#A0A0A0'>Damage given: </font><font color='#7ebc50'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> in</font> <font color='#7ebc50'><b>{d:hits_given} hits </b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
+
+		"Cstrike_game_join_spectators"						"%s1 joined spectators\n"
+		"Cstrike_game_join_terrorist"						"%s1 joined T\n"
+		"Cstrike_game_join_ct"								"%s1 joined CT\n"
+		"Cstrike_TitlesTXT_Game_teammate_attack"			"%s1 attacked a teammate"
+
+		"Cstrike_TitlesTXT_Defusing_Bomb"					"* Defusing *"
+		"Cstrike_TitlesTXT_Planting_Bomb"					"* Planting *"
+
+		"SFUI_TitlesTXT_Fire_in_the_hole" 					"Grenade"
+		"SFUI_TitlesTXT_Molotov_in_the_hole" 				"Molotov"
+		"SFUI_TitlesTXT_Incendiary_in_the_hole" 			"Incendiary"
+		"SFUI_TitlesTXT_Flashbang_in_the_hole" 				"Flash"
+		"SFUI_TitlesTXT_Smoke_in_the_hole" 					"Smoke"
+		"SFUI_TitlesTXT_Decoy_in_the_hole" 					"Decoy"
+
+		"Player_Cash_Award_Kill_Teammate"					" -$%s1 • Teamkill"
+		"Player_Cash_Award_Killed_VIP"						" +$%s1 • VIP kill"
+		"Player_Cash_Award_Killed_Enemy_Generic"			" +$%s1 • Enemy kill"
+		"Player_Cash_Award_Killed_Enemy"					" +$%s1 • %s2 kill"
+		"Player_Cash_Award_Bomb_Planted"					" +$%s1 • Bomb planted"
+		"Player_Cash_Award_Bomb_Defused"					" +$%s1 • Bomb defused"
+		"Player_Cash_Award_Rescued_Hostage"					" +$%s1 • Hostage rescued"
+		"Player_Cash_Award_Interact_Hostage"				" +$%s1 • Hostage reached"
+		"Player_Cash_Award_Respawn"							" +$%s1 • Respawn"
+		"Player_Cash_Award_Get_Killed"						" +$%s1 • Eliminated"
+		"Player_Cash_Award_Damage_Hostage"					" -$%s1 • Hostage wounded"
+		"Player_Cash_Award_Kill_Hostage"					" -$%s1 • Hostage killed"
+
+		"Team_Cash_Award_T_Win_Bomb"						" +$%s1 • Bomb detonated"
+		"Team_Cash_Award_Elim_Hostage"						" +$%s1 • Team elimination"
+		"Team_Cash_Award_Elim_Bomb"							" +$%s1 • Team elimination"
+		"Team_Cash_Award_Win_Time"							" +$%s1 • Time is up"
+		"Team_Cash_Award_Win_Defuse_Bomb"					" +$%s1 • Bomb defused"
+		"Team_Cash_Award_Win_Hostages_Rescue"				" +$%s1 • Hostages rescued"
+		"Team_Cash_Award_Win_Hostage_Rescue"				" +$%s1 • Hostage rescued"
+		"Team_Cash_Award_Loser_Bonus"						" +$%s1 • Round lost"
+		"Team_Cash_Award_Loser_Bonus_Neg"					" -$%s1 • Round lost"
+		"Team_Cash_Award_Loser_Zero"						" -$%s1 • Dead players on losing team"
+		"Team_Cash_Award_Rescued_Hostage"					" +$%s1 • Hostage rescued"
+		"Team_Cash_Award_Hostage_Interaction"				" +$%s1 • Hostage reached"
+		"Team_Cash_Award_Hostage_Alive"						" +$%s1 • Hostages survived"
+		"Team_Cash_Award_Planted_Bomb_But_Defused"			" +$%s1 • Bomb planted"
+		"Team_Cash_Award_Survive_GuardianMode_Wave"			" +$%s1 • Survived the wave"
+		"Team_Cash_Award_CT_VIP_Escaped"					" +$%s1 • Evac'ed the VIP"
+		"Team_Cash_Award_T_VIP_Killed"						" +$%s1 • Neutralized the VIP"
+		"Team_Cash_Award_no_income"							" $0 • Time is up"
+		"Team_Cash_Award_no_income_suicide"					" $0 • Suicide"
+		"Team_Cash_Award_Generic"							" +$%s1 • Team award"
+		"Team_Cash_Award_Custom"							" +$%s1 • %s2"
+
+		"Game_radio"										"%s1 (RADIO): %s2"
+		"Game_radio_location"								"%s1 @ %s2 (RADIO): %s3"
+		"Cstrike_Chat_CT_Loc"								"%s1 @ %s3 (CT): %s2"
+		"Cstrike_Chat_T_Loc"								"%s1 @ %s3 (T): %s2"
+		"Cstrike_Chat_CT"									"%s1 (CT):  %s2"
+		"Cstrike_Chat_T"									"%s1 (T):  %s2"
+		"Cstrike_Chat_CT_Dead"								"*DEAD* %s1 (CT): %s2"
+		"Cstrike_Chat_T_Dead"								"*DEAD* %s1 (T): %s2"
+		"Cstrike_Chat_Spec"									"(SPEC) %s1 : %s2"
+		"Cstrike_Chat_All"									"%s1 : %s2"
+		"Cstrike_Chat_AllDead"								"*DEAD* %s1 : %s2"
+		"Cstrike_Chat_AllSpec"								"*SPEC* %s1 : %s2"
+
+		"quest_complete_the_match"							"Finish the match"
+		"CSGO_Spray_Auto_Toggle"							"Quick Graffiti"
+	}
+
+// - White
+// - Red
+// - Team color (may cause player's color dot before symbol)
+// - Green
+// - Light green
+// - Green(money awards)
+// - Light red
+// - CT color
+// - Light blue
+// - Violet
+// - Light red 2
+
+}
