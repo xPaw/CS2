@@ -71,7 +71,7 @@
         "Cstrike_Chat_CT_Dead"                              "*DEAD* %s1 (CT): %s2"
         "Cstrike_Chat_T_Dead"                               "*DEAD* %s1 (T): %s2"
         "Cstrike_Chat_Spec"                                 "(SPEC) %s1 : %s2"
-        "Cstrike_Chat_All"                                  "%s1: %s2"
+        "Cstrike_Chat_All"                                  "%s1 : %s2"
         "Cstrike_Chat_AllDead"                              "*DEAD* %s1 : %s2"
         "Cstrike_Chat_AllSpec"                              "*SPEC* %s1 : %s2"
 
