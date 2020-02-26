@@ -7,10 +7,10 @@
         "Cstrike_TitlesTXT_Bomb_Planted"                    "Bomb planted (%s1 seconds left)"
         "SFUI_Notice_YouDroppedWeapon"                      "Dropped %s1"
 
-        "Panorama_FreezePanel_DamageTaken"                  "<font color='#A0A0A0'>Damage taken: </font><font color='#CC0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> in</font> <font color='#CC0000'><b>{d:hits_taken} hit </b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
-        "Panorama_FreezePanel_DamageGiven"                  "<font color='#A0A0A0'>Damage given: </font><font color='#7ebc50'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> in</font> <font color='#7ebc50'><b>{d:hits_given} hit </b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
-        "Panorama_FreezePanel_DamageTaken_Multi"            "<font color='#A0A0A0'>Damage taken: </font><font color='#CC0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'> in</font> <font color='#CC0000'><b>{d:hits_taken} hits </b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
-        "Panorama_FreezePanel_DamageGiven_Multi"            "<font color='#A0A0A0'>Damage given: </font><font color='#7ebc50'><b>{d:damage_given}</b></font> <font color='#A0A0A0'> in</font> <font color='#7ebc50'><b>{d:hits_given} hits </b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
+        "Panorama_FreezePanel_DamageTaken"                  "<font color='#A0A0A0'>Damage taken:</font> <font color='#CC0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'>in</font> <font color='#CC0000'><b>{d:hits_taken} hit</b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
+        "Panorama_FreezePanel_DamageGiven"                  "<font color='#A0A0A0'>Damage given:</font> <font color='#7ebc50'><b>{d:damage_given}</b></font> <font color='#A0A0A0'>in</font> <font color='#7ebc50'><b>{d:hits_given} hit</b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
+        "Panorama_FreezePanel_DamageTaken_Multi"            "<font color='#A0A0A0'>Damage taken:</font> <font color='#CC0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'>in</font> <font color='#CC0000'><b>{d:hits_taken} hits</b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
+        "Panorama_FreezePanel_DamageGiven_Multi"            "<font color='#A0A0A0'>Damage given:</font> <font color='#7ebc50'><b>{d:damage_given}</b></font> <font color='#A0A0A0'>in</font> <font color='#7ebc50'><b>{d:hits_given} hits</b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
 
         "Cstrike_game_join_spectators"                      "%s1 joined spectators\n"
         "Cstrike_game_join_terrorist"                       "%s1 joined T\n"
