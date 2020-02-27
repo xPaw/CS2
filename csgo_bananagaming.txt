@@ -7,10 +7,10 @@
         "Cstrike_TitlesTXT_Bomb_Planted"                    "Bomb planted (%s1 seconds left)"
         "SFUI_Notice_YouDroppedWeapon"                      "Dropped %s1"
 
-        "Panorama_FreezePanel_DamageTaken"                  "<font color='#A0A0A0'>Damage taken:</font> <font color='#CC0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'>in</font> <font color='#CC0000'><b>{d:hits_taken} hit</b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
-        "Panorama_FreezePanel_DamageGiven"                  "<font color='#A0A0A0'>Damage given:</font> <font color='#7ebc50'><b>{d:damage_given}</b></font> <font color='#A0A0A0'>in</font> <font color='#7ebc50'><b>{d:hits_given} hit</b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
-        "Panorama_FreezePanel_DamageTaken_Multi"            "<font color='#A0A0A0'>Damage taken:</font> <font color='#CC0000'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'>in</font> <font color='#CC0000'><b>{d:hits_taken} hits</b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
-        "Panorama_FreezePanel_DamageGiven_Multi"            "<font color='#A0A0A0'>Damage given:</font> <font color='#7ebc50'><b>{d:damage_given}</b></font> <font color='#A0A0A0'>in</font> <font color='#7ebc50'><b>{d:hits_given} hits</b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
+        "Panorama_FreezePanel_DamageTaken"                  "<font color='#A0A0A0'>Damage taken:</font> <font color='#cf4731'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'>in</font> <font color='#cf4731'><b>{d:hits_taken} hit</b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
+        "Panorama_FreezePanel_DamageGiven"                  "<font color='#A0A0A0'>Damage given:</font> <font color='#69cf31'><b>{d:damage_given}</b></font> <font color='#A0A0A0'>in</font> <font color='#69cf31'><b>{d:hits_given} hit</b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
+        "Panorama_FreezePanel_DamageTaken_Multi"            "<font color='#A0A0A0'>Damage taken:</font> <font color='#cf4731'><b>{d:damage_taken}</b></font> <font color='#A0A0A0'>in</font> <font color='#cf4731'><b>{d:hits_taken} hits</b></font> <font color='#A0A0A0'>from {s:killer_name}</font>"
+        "Panorama_FreezePanel_DamageGiven_Multi"            "<font color='#A0A0A0'>Damage given:</font> <font color='#69cf31'><b>{d:damage_given}</b></font> <font color='#A0A0A0'>in</font> <font color='#69cf31'><b>{d:hits_given} hits</b></font> <font color='#A0A0A0'>to {s:killer_name}</font>"
 
         "Cstrike_game_join_spectators"                      "%s1 joined spectators\n"
         "Cstrike_game_join_terrorist"                       "%s1 joined T\n"
@@ -66,8 +66,8 @@
         "Player_Point_Award_Killed_Enemy_Plural"            " %s1 points • %s2 kill"
         "Player_Point_Award_Killed_Enemy_NoWeapon"          " %s1 point • Enemy kill"
         "Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   " %s1 points • Enemy kill"
-        "Player_Point_Award_Assist_Enemy"                   " %s1 point • Assisted killing %s2"
-        "Player_Point_Award_Assist_Enemy_Plural"            " %s1 points • Assisted killing %s2"
+        "Player_Point_Award_Assist_Enemy"                   " %s1 point • Assisted killing %s2"
+        "Player_Point_Award_Assist_Enemy_Plural"            " %s1 points • Assisted killing %s2"
 
         "Game_radio"                                        "%s1 (RADIO): %s2"
         "Game_radio_location"                               "%s1 @ %s2 (RADIO): %s3"
@@ -84,6 +84,9 @@
 
         "quest_complete_the_match"                          "Finish the match"
         "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
+
+        "SFUI_QMM_ERROR_X_AccountWarningTrustMinor"         "Trust Factor of %s1 is lower than yours."
+		"SFUI_QMM_ERROR_X_AccountWarningTrustMajor"         "Trust Factor of %s1 is substantially lower than yours."
     }
 
 // - White
