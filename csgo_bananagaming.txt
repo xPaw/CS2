@@ -86,7 +86,7 @@
         "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
 
         "SFUI_QMM_ERROR_X_AccountWarningTrustMinor"         "Trust Factor of %s1 is lower than yours."
-		"SFUI_QMM_ERROR_X_AccountWarningTrustMajor"         "Trust Factor of %s1 is substantially lower than yours."
+        "SFUI_QMM_ERROR_X_AccountWarningTrustMajor"         "Trust Factor of %s1 is substantially lower than yours."
     }
 
 // - White
