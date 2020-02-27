@@ -62,6 +62,13 @@
         "Team_Cash_Award_Generic"                           " +$%s1 • Team award"
         "Team_Cash_Award_Custom"                            " +$%s1 • %s2"
 
+        "Player_Point_Award_Killed_Enemy"                   " %s1 point • %s2 kill"
+        "Player_Point_Award_Killed_Enemy_Plural"            " %s1 points • %s2 kill"
+        "Player_Point_Award_Killed_Enemy_NoWeapon"          " %s1 point • Enemy kill"
+        "Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   " %s1 points • Enemy kill"
+        "Player_Point_Award_Assist_Enemy"                   " %s1 point • Assisted killing %s2"
+        "Player_Point_Award_Assist_Enemy_Plural"            " %s1 points • Assisted killing %s2"
+
         "Game_radio"                                        "%s1 (RADIO): %s2"
         "Game_radio_location"                               "%s1 @ %s2 (RADIO): %s3"
         "Cstrike_Chat_CT_Loc"                               "%s1 @ %s3 (CT): %s2"
