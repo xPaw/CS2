@@ -9,4 +9,4 @@
 
 # Installing radio mod
 1. Replace `radiopanel.txt` in  `Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource\ui` folder
-2. Set correct binds: `bind z radio; bind x radio1; bind c radio2; bind v radio3`
+2. Set correct binds: `bind z radio1; bind x radio2; bind c radio3; bind v radio`
