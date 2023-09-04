@@ -4,7 +4,7 @@
 
     "Language" "english"
     "Tokens"
-    {
+    
         "Cstrike_TitlesTXT_Bomb_Defused"                    "Bomb defused"
         "Cstrike_TitlesTXT_Bomb_Planted"                    "Bomb planted, %s1 seconds left"
         "SFUI_Notice_YouDroppedWeapon"                      "Dropped %s1"
@@ -20,15 +20,15 @@
         "Cstrike_game_join_ct"                              " %s1 joined CT"
         "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
 
-        "Cstrike_TitlesTXT_Defusing_Bomb"                   "Defusing!"
-        "Cstrike_TitlesTXT_Planting_Bomb"                   "Planting!"
+        "Cstrike_TitlesTXT_Defusing_Bomb"                   "Defusing"
+        "Cstrike_TitlesTXT_Planting_Bomb"                   "Planting"
 
-        "SFUI_TitlesTXT_Fire_in_the_hole"                   "● Grenade"
-        "SFUI_TitlesTXT_Molotov_in_the_hole"                "● Molotov"
-        "SFUI_TitlesTXT_Incendiary_in_the_hole"             "● Incendiary"
-        "SFUI_TitlesTXT_Flashbang_in_the_hole"              "● Flash"
-        "SFUI_TitlesTXT_Smoke_in_the_hole"                  "● Smoke"
-        "SFUI_TitlesTXT_Decoy_in_the_hole"                  "● Decoy"
+        "SFUI_TitlesTXT_Fire_in_the_hole"                   "• Grenade"
+        "SFUI_TitlesTXT_Molotov_in_the_hole"                "• Molotov"
+        "SFUI_TitlesTXT_Incendiary_in_the_hole"             "• Incendiary"
+        "SFUI_TitlesTXT_Flashbang_in_the_hole"              "• Flash"
+        "SFUI_TitlesTXT_Smoke_in_the_hole"                  "• Smoke"
+        "SFUI_TitlesTXT_Decoy_in_the_hole"                  "• Decoy"
 
         "Player_You_Are_Now_Dominating"                     "Dominating %s1"
         "Player_You_Are_Still_Dominating"                   "Still dominating %s1"
@@ -111,5 +111,5 @@
         // C14 #d32ce6  - Legendary, purple
         // C15 #eb4b4b  - Ancient, lighter red
         // C16 #e4ae39  - Immortal, orange
-    }
+    
 }
