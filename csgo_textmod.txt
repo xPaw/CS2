@@ -4,7 +4,7 @@
 
     "Language" "english"
     "Tokens"
-    
+    {
         "Cstrike_TitlesTXT_Bomb_Defused"                    "Bomb defused"
         "Cstrike_TitlesTXT_Bomb_Planted"                    "Bomb planted, %s1 seconds left"
         "SFUI_Notice_YouDroppedWeapon"                      "Dropped %s1"
