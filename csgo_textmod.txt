@@ -12,10 +12,10 @@
         "quest_complete_the_match"                          "Finish the match"
         "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
 
-        "Cstrike_game_join_spectators"                      "%s1 joined Spectators\n"
-        "Cstrike_game_join_terrorist"                       "%s1 joined T\n"
-        "Cstrike_game_join_ct"                              "%s1 joined CT\n"
-        "Cstrike_TitlesTXT_Game_teammate_attack"            "%s1 attacked a teammate"
+        "Cstrike_game_join_spectators"                      " %s1 joined Spectators"
+        "Cstrike_game_join_terrorist"                       " %s1 joined Ttest"
+        "Cstrike_game_join_ct"                              " %s1 joined CT"
+        "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
 
         "Cstrike_TitlesTXT_Defusing_Bomb"                   "Defusing!"
         "Cstrike_TitlesTXT_Planting_Bomb"                   "Planting!"
@@ -85,6 +85,11 @@
         "Player_Point_Award_Killed_Enemy_NoWeapon"          " %s1 point • Kill"
         "Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   " %s1 points • Kill"
         "Player_Point_Award_Killed_Enemy_Plural"            " %s1 points • Kill with %s2"
+
+        "Player_Cash_Award_ExplainSuicide_EnemyGotCash"     " An enemy player was awarded for the suicide of %s1"
+        "Player_Cash_Award_ExplainSuicide_Spectators"       " %s3 got +$%s2 for the suicide of %s1"
+        "Player_Cash_Award_ExplainSuicide_TeammateGotCash"  " %s3 got +$%s2 for the suicide of %s1"
+        "Player_Cash_Award_ExplainSuicide_YouGotCash"       " +$%s2 • Suicide of %s1"
 
         // C01  - Normal, white
         // C02  - "Use old colors", dark red
