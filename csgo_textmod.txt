@@ -32,13 +32,13 @@
 
         "Game_radio"                                        "%s1 : %s2"
         "Game_radio_location"                               "%s1 [%s2] %s3"
-        "Cstrike_Chat_CT_Loc"                               "(CT) %s1 [%s3] :  %s2"
-        "Cstrike_Chat_T_Loc"                                "(T) %s1 [%s3] : %s2"
-        "Cstrike_Chat_CT"                                   "(CT) %s1 : %s2"
-        "Cstrike_Chat_T"                                    "(T) %s1 : %s2"
-        "Cstrike_Chat_CT_Dead"                              "*DEAD*(CT) %s1 : %s2"
-        "Cstrike_Chat_T_Dead"                               "*DEAD*(T) %s1 : %s2"
-        "Cstrike_Chat_Spec"                                 "(SPEC) %s1 : %s2"
+        "Cstrike_Chat_CT_Loc"                               "%s1 [%s3] (CT): %s2"
+        "Cstrike_Chat_T_Loc"                                "%s1 [%s3] (T): %s2"
+        "Cstrike_Chat_CT"                                   "%s1 (CT): %s2"
+        "Cstrike_Chat_T"                                    "%s1 (T): %s2"
+        "Cstrike_Chat_CT_Dead"                              "*DEAD* %s1 (CT): %s2"
+        "Cstrike_Chat_T_Dead"                               "*DEAD* %s1 (T): %s2"
+        "Cstrike_Chat_Spec"                                 "%s1 (SPEC): %s2"
         "Cstrike_Chat_All"                                  "%s1 : %s2"
         "Cstrike_Chat_AllDead"                              "*DEAD* %s1 : %s2"
         "Cstrike_Chat_AllSpec"                              "*SPEC* %s1 : %s2"
@@ -94,12 +94,12 @@
         // C06  - Award, bright green
         // C07  - Penalty, light red
         // C08  - Silver
-        // C09 - Gold?
+        // C09 (tab character) - Gold?
 
-        // C10 - Common?
+        // C10 (line feed) - Common?
         // C11  - Uncommon, very light blue
         // C12  - Rare, darker blue
-        // C13 - Mythical?
+        // C13 (carriage return) - Mythical?
         // C14  - Legendary, purple
         // C15  - Ancient, lighter red
         // C16  - Immortal, orange
