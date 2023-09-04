@@ -2,7 +2,7 @@
 
 1. Click `Raw` to download the file
 2. Move `csgo_textmod.txt` inside this folder: `Steam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\resource`
-3. Add `-language bananagaming` to your launch options
+3. Add `-language textmod` to your launch options
 
 ### Not working? Make sure that:
 - `csgo_textmod.txt` is placed in the right folder (it needs to be inside the resource folder)
