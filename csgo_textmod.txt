@@ -37,13 +37,13 @@
         "Game_radio_location"                               "%s1 [%s2] %s3"
         "Cstrike_Chat_CT_Loc"                               "%s1 [%s3] (CT): %s2"
         "Cstrike_Chat_T_Loc"                                "%s1 [%s3] (T): %s2"
-        "Cstrike_Chat_CT_Dead"                              "%s1 [Dead] (CT): %s2"
-        "Cstrike_Chat_T_Dead"                               "%s1 [Dead] (T): %s2"
+        "Cstrike_Chat_CT_Dead"                              "%s1 [Dead] (CT): %s2"
+        "Cstrike_Chat_T_Dead"                               "%s1 [Dead] (T): %s2"
         "Cstrike_Chat_CT"                                   "%s1 (CT): %s2"
         "Cstrike_Chat_T"                                    "%s1 (T): %s2"
         "Cstrike_Chat_Spec"                                 "%s1 (SPEC): %s2"
         "Cstrike_Chat_All"                                  "%s1 : %s2"
-        "Cstrike_Chat_AllDead"                              "%s1 [Dead]: %s2"
+        "Cstrike_Chat_AllDead"                              "%s1 [Dead]: %s2"
         "Cstrike_Chat_AllSpec"                              "%s1 [SPEC]: %s2"
 
         "Player_Cash_Award_Bomb_Defused"                    " +$%s1 • Bomb defused"
@@ -111,5 +111,5 @@
         // C14 #d32ce6  - Legendary, purple
         // C15 #eb4b4b  - Ancient, lighter red
         // C16 #e4ae39  - Immortal, orange
-    }   
+    }
 }
