@@ -2,7 +2,7 @@
 {
     // Source: https://gist.github.com/xPaw/056b29be7ae9c143ed623a9c4c10cf50
 
-    "Language" "textmod"
+    "Language" "english"
     "Tokens"
     {
         "Cstrike_TitlesTXT_Bomb_Defused"                    "Bomb defused"
@@ -94,22 +94,22 @@
         "Player_Cash_Award_ExplainSuicide_TeammateGotCash"  " %s3 got +$%s2 for the suicide of %s1"
         "Player_Cash_Award_ExplainSuicide_YouGotCash"       " +$%s2 • Suicide of %s1"
 
-        // C01  - Normal, white
-        // C02  - "Use old colors", dark red
-        // C03  - Player name, team color
-        // C04  - Location, bright green
-        // C05  - Achievement, light green
-        // C06  - Award, bright green
-        // C07  - Penalty, light red
-        // C08  - Silver
-        // C09 (tab character) - Gold?
+        // C01 #ffffff  - Normal, white
+        // C02 #ff0000  - "Use old colors", dark red
+        // C03 #ba81f0  - Player name, team color (CT - #a2c6ff, T - #ffdf93)
+        // C04 #40ff40  - Location, bright green
+        // C05 #bfff90  - Achievement, light green
+        // C06 #a2ff47  - Award, bright green
+        // C07 #ff4040  - Penalty, light red
+        // C08 #c5cad0  - Silver
+        // C09 #ede47a (tab character) - Gold?
 
-        // C10 (line feed) - Common?
-        // C11  - Uncommon, very light blue
-        // C12  - Rare, darker blue
-        // C13 (carriage return) - Mythical?
-        // C14  - Legendary, purple
-        // C15  - Ancient, lighter red
-        // C16  - Immortal, orange
+        // C10 #b0c3d9 (line feed) - Common?
+        // C11 #5e98d9  - Uncommon, very light blue
+        // C12 #4b69ff  - Rare, darker blue
+        // C13 #8847ff (carriage return) - Mythical?
+        // C14 #d32ce6  - Legendary, purple
+        // C15 #eb4b4b  - Ancient, lighter red
+        // C16 #e4ae39  - Immortal, orange
     }
 }
