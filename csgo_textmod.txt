@@ -111,5 +111,5 @@
         // C14 #d32ce6  - Legendary, purple
         // C15 #eb4b4b  - Ancient, lighter red
         // C16 #e4ae39  - Immortal, orange
-    
+    }   
 }
