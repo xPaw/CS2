@@ -6,8 +6,8 @@
 4. Add `-language textmod` to your launch options
 
 ### Not working? Make sure that:
-- `csgo_textmod.txt` is placed in the right folder (it needs to be inside the resource folder)
-- Launch options is spelled correctly, this is an example that will work: `-novid -language textmod`
+- `csgo_textmod.txt` is placed in the right folder (it needs to be inside the CS2 `game\csgo\resource` folder)
+- Launch option is spelled correctly, this is an example that will work: `-novid -language textmod`
 
 # Screenshots
 
