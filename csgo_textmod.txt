@@ -8,6 +8,9 @@
         "Cstrike_TitlesTXT_Bomb_Defused"                    "Bomb defused"
         "Cstrike_TitlesTXT_Bomb_Planted"                    "Bomb planted, %s1 seconds left"
         "SFUI_Notice_YouDroppedWeapon"                      "Dropped %s1"
+        "Cstrike_TitlesTXT_Got_bomb"                        "Picked up the bomb"
+        "Cstrike_TitlesTXT_Got_defuser"                     "Picked up defuse kit"
+        "Cstrike_TitlesTXT_Weapon_Pickup"                   "Picked up %s1"
 
         "quest_complete_the_match"                          "Finish the match"
         "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
