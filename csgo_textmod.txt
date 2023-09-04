@@ -28,7 +28,7 @@
         "SFUI_TitlesTXT_Incendiary_in_the_hole"             "• Incendiary"
         "SFUI_TitlesTXT_Flashbang_in_the_hole"              "• Flash"
         "SFUI_TitlesTXT_Smoke_in_the_hole"                  "• Smoke"
-        "SFUI_TitlesTXT_Decoy_in_the_hole"                  "• Decoy"
+        "SFUI_TitlesTXT_Decoy_in_the_hole"                  "• Decoy"
 
         "Player_You_Are_Now_Dominating"                     "Dominating %s1"
         "Player_You_Are_Still_Dominating"                   "Still dominating %s1"
