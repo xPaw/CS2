@@ -85,11 +85,6 @@
 
         "quest_complete_the_match"                          "Finish the match"
         "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
-
-        "SFUIHUD_InfoPanel_DefuseText"                      "You are defusing."
-        "SFUIHUD_InfoPanel_DefuseText_NoKit"                "You are defusing without a kit."
-        "SFUIHUD_InfoPanel_Spec_DefuseText"                 "%s1\nis defusing."
-        "SFUIHUD_InfoPanel_Spec_DefuseText_NoKit"           "%s1\nis defusing without a kit."
     }
 
 // - White
