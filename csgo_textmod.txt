@@ -13,7 +13,7 @@
         "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
 
         "Cstrike_game_join_spectators"                      " %s1 joined Spectators"
-        "Cstrike_game_join_terrorist"                       " %s1 joined Ttest"
+        "Cstrike_game_join_terrorist"                       " %s1 joined T"
         "Cstrike_game_join_ct"                              " %s1 joined CT"
         "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
 
