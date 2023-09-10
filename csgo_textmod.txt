@@ -8,6 +8,11 @@
     "Cstrike_TitlesTXT_Got_defuser"                     "Picked up defuse kit"
     "Cstrike_TitlesTXT_Weapon_Pickup"                   "Picked up %s1"
 
+    "SFUI_Notice_CTs_Clinched_Match"                    " ★ CTs won the match"
+    "SFUI_Notice_Ts_Clinched_Match"                     " ★ Ts won the match"
+    "hostagerescuetime"                                 " CTs got more time by reaching a hostage"
+    "SFUI_Notice_All_Players_Connected"                 " Match will start in %s1 seconds"
+
     "quest_complete_the_match"                          "Finish the match"
     "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
 
@@ -16,8 +21,8 @@
     "Cstrike_game_join_ct"                              " %s1 joined CT"
     "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
 
-    "Cstrike_TitlesTXT_Defusing_Bomb"                   "★ Defusing"
-    "Cstrike_TitlesTXT_Planting_Bomb"                   "★ Planting"
+    "Cstrike_TitlesTXT_Defusing_Bomb"                   "Defusing"
+    "Cstrike_TitlesTXT_Planting_Bomb"                   "Planting"
 
     "SFUI_TitlesTXT_Fire_in_the_hole"                   "• Grenade"
     "SFUI_TitlesTXT_Molotov_in_the_hole"                "• Molotov"
@@ -70,7 +75,7 @@
     "Team_Cash_Award_Rescued_Hostage"                   " +$%s1 • Hostage rescued"
     "Team_Cash_Award_Survive_GuardianMode_Wave"         " +$%s1 • Survived the wave"
     "Team_Cash_Award_T_VIP_Killed"                      " +$%s1 • Neutralized the VIP"
-    "Team_Cash_Award_T_Win_Bomb"                        " +$%s1 • Bomb detonated"
+    "Team_Cash_Award_T_Win_Bomb"                        " +$%s1 • Bomb exploded"
     "Team_Cash_Award_Win_Defuse_Bomb"                   " +$%s1 • Bomb defused"
     "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Hostage rescued"
     "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Hostages rescued"
