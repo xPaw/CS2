@@ -18,3 +18,7 @@
 ![](https://user-images.githubusercontent.com/613331/267935631-40ab065f-138e-4aaf-a916-db78c0ae74db.png)
 
 This was based on bananagaming text mod, but I have been modifying it over the years for CS:GO.
+
+----
+
+[Also checkout CS2 practice config](https://gist.github.com/xPaw/4681640268dfde474ccb)
