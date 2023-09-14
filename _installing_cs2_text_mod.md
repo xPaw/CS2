@@ -15,6 +15,6 @@
 ![](https://user-images.githubusercontent.com/613331/265502132-d96d24d8-7af6-4c52-a286-9a59eda30444.png)
 ![](https://user-images.githubusercontent.com/613331/265502133-5284316d-c9f1-4af5-91b1-50c053554ce2.png)
 ![](https://user-images.githubusercontent.com/613331/265539655-817e7637-4b91-4ab9-8146-8f881b8b12bc.png)
-![](https://user-images.githubusercontent.com/613331/265539652-1c1c3017-3a5e-48ad-b7fb-15fa55158951.png)
+![](https://user-images.githubusercontent.com/613331/267935631-40ab065f-138e-4aaf-a916-db78c0ae74db.png)
 
 This was based on bananagaming text mod, but I have been modifying it over the years for CS:GO.

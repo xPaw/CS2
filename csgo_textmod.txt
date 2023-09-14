@@ -90,7 +90,7 @@
     "Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   " %s1 points • Kill"
     "Player_Point_Award_Killed_Enemy_Plural"            " %s1 points • Kill with %s2"
 
-    "Player_Cash_Award_ExplainSuicide_EnemyGotCash"     " An enemy player got for the suicide of %s1"
+    "Player_Cash_Award_ExplainSuicide_EnemyGotCash"     " An enemy player got money for the suicide of %s1"
     "Player_Cash_Award_ExplainSuicide_Spectators"       " %s3 got +$%s2 for the suicide of %s1"
     "Player_Cash_Award_ExplainSuicide_TeammateGotCash"  " %s3 got +$%s2 for the suicide of %s1"
     "Player_Cash_Award_ExplainSuicide_YouGotCash"       " +$%s2 • Suicide of %s1"
