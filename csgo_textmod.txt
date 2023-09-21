@@ -20,6 +20,7 @@
     "Cstrike_game_join_terrorist"                       " %s1 joined T"
     "Cstrike_game_join_ct"                              " %s1 joined CT"
     "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
+    "csgo_player_left_game"                             " %s1 left (%s2)"
 
     "Cstrike_TitlesTXT_Defusing_Bomb"                   "Defusing"
     "Cstrike_TitlesTXT_Planting_Bomb"                   "Planting"
@@ -83,19 +84,19 @@
     "Team_Cash_Award_no_income"                         " +$0 • Time is up"
     "Team_Cash_Award_no_income_suicide"                 " +$0 • Suicide"
 
-    "Player_Point_Award_Assist_Enemy"                   " %s1 point • Assisted killing %s2"
-    "Player_Point_Award_Assist_Enemy_Plural"            " %s1 points • Assisted killing %s2"
-    "Player_Point_Award_Killed_Enemy"                   " %s1 point • Kill with %s2"
-    "Player_Point_Award_Killed_Enemy_NoWeapon"          " %s1 point • Kill"
-    "Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   " %s1 points • Kill"
-    "Player_Point_Award_Killed_Enemy_Plural"            " %s1 points • Kill with %s2"
+    "Player_Point_Award_Assist_Enemy"                   " +%s1 • Assisted killing %s2"
+    "Player_Point_Award_Assist_Enemy_Plural"            " +%s1 • Assisted killing %s2"
+    "Player_Point_Award_Killed_Enemy"                   " +%s1 • Kill with %s2"
+    "Player_Point_Award_Killed_Enemy_Plural"            " +%s1 • Kill with %s2"
+    "Player_Point_Award_Killed_Enemy_NoWeapon"          " +%s1 • Kill"
+    "Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   " +%s1 • Kill"
 
-    "Player_Cash_Award_ExplainSuicide_EnemyGotCash"     " An enemy player got money for the suicide of %s1"
-    "Player_Cash_Award_ExplainSuicide_Spectators"       " %s3 got +$%s2 for the suicide of %s1"
-    "Player_Cash_Award_ExplainSuicide_TeammateGotCash"  " %s3 got +$%s2 for the suicide of %s1"
+    "Player_Cash_Award_ExplainSuicide_EnemyGotCash"     " %s1 committed suicide, enemy player received a bonus"
+    "Player_Cash_Award_ExplainSuicide_Spectators"       " %s3 received +$%s2 for the suicide of %s1"
+    "Player_Cash_Award_ExplainSuicide_TeammateGotCash"  " %s3 received +$%s2 for the suicide of %s1"
     "Player_Cash_Award_ExplainSuicide_YouGotCash"       " +$%s2 • Suicide of %s1"
 
-    "Notice_Bonus_Enemy_Team"                           " Enemies got $%s1 short-handed income"
+    "Notice_Bonus_Enemy_Team"                           " Enemies received $%s1 short-handed income"
     "Notice_Bonus_Shorthanded_Eligibility"              " Short-handed income in %s1 rounds"
     "Notice_Bonus_Shorthanded_Eligibility_Single"       " Short-handed income in 1 round"
 
