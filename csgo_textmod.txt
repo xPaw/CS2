@@ -23,9 +23,11 @@
     // Shorter names
     "SFUI_WPNHUD_HE_Grenade"                            "Grenade"
     "SFUI_WPNHUD_HEGrenade"                             "Grenade"
+    "SFUI_WPNHUD_Molotov"                               "Molotov"
+    "SFUI_WPNHUD_IncGrenade"                            "Incendiary"
+    "SFUI_WPNHUD_Flashbang"                             "Flash"
     "SFUI_WPNHUD_Smoke_Grenade"                         "Smoke"
     "SFUI_WPNHUD_SmokeGrenade"                          "Smoke"
-    "SFUI_WPNHUD_IncGrenade"                            "Incendiary"
     "SFUI_WPNHUD_Decoy"                                 "Decoy"
 
     "Cstrike_game_join_spectators"                      " %s1 joined Spectators"
