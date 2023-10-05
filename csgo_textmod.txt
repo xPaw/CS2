@@ -16,7 +16,7 @@
     "hostagerescuetime"                                 " CTs got more time by reaching a hostage"
     "SFUI_Notice_All_Players_Connected"                 " Match will start in %s1 seconds"
 
-    "quest_complete_the_match"                          "Finish the match"
+    // Graffiti menu
     "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
     "CSGO_No_Sprays"                                    "You do not have any opened graffiti"
 
@@ -48,16 +48,16 @@
     "SFUI_TitlesTXT_Decoy_in_the_hole"                  "• Decoy"
 
     // Chat messages
-    "Game_radio"                                        "%s1 : %s2"
+    "Game_radio"                                        "%s1: %s2"
     "Game_radio_location"                               "%s1 [%s2] %s3"
-    "Cstrike_Chat_CT_Loc"                               "%s1 [%s3] (CT): %s2"
-    "Cstrike_Chat_T_Loc"                                "%s1 [%s3] (T): %s2"
-    "Cstrike_Chat_CT_Dead"                              "%s1 [Dead] (CT): %s2"
-    "Cstrike_Chat_T_Dead"                               "%s1 [Dead] (T): %s2"
+    "Cstrike_Chat_CT_Loc"                               "%s1 [%s3] (Team): %s2"
+    "Cstrike_Chat_T_Loc"                                "%s1 [%s3] (Team): %s2"
+    "Cstrike_Chat_CT_Dead"                              "%s1 [Dead] (Team): %s2"
+    "Cstrike_Chat_T_Dead"                               "%s1 [Dead] (Team): %s2"
     "Cstrike_Chat_CT"                                   "%s1 (CT): %s2"
     "Cstrike_Chat_T"                                    "%s1 (T): %s2"
     "Cstrike_Chat_Spec"                                 "%s1 (SPEC): %s2"
-    "Cstrike_Chat_All"                                  "%s1 : %s2"
+    "Cstrike_Chat_All"                                  "%s1: %s2"
     "Cstrike_Chat_AllDead"                              "%s1 [Dead]: %s2"
     "Cstrike_Chat_AllSpec"                              "%s1 [SPEC]: %s2"
 
