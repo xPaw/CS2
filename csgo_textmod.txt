@@ -49,7 +49,6 @@
     "SFUI_TitlesTXT_Decoy_in_the_hole"                  "• Decoy"
 
     // Chat messages
-    // TODO: Spectator messages don't seem to work? It just says dead
     "Game_radio"                                        "%s1: %s2"
     "Game_radio_location"                               "%s1 [%s2] %s3"
     "Cstrike_Chat_CT_Loc"                               "%s1 [%s3] (Team): %s2"
@@ -58,10 +57,12 @@
     "Cstrike_Chat_T_Dead"                               "%s1 [Dead] (Team): %s2"
     "Cstrike_Chat_CT"                                   "%s1 (Team): %s2"
     "Cstrike_Chat_T"                                    "%s1 (Team): %s2"
-    "Cstrike_Chat_Spec"                                 "%s1 (Team): %s2"
     "Cstrike_Chat_All"                                  "%s1: %s2"
     "Cstrike_Chat_AllDead"                              "%s1 [Dead]: %s2"
-    "Cstrike_Chat_AllSpec"                              "%s1 [Spec]: %s2"
+
+    // CS2 removed specific strings for spectators, it just says dead
+    //"Cstrike_Chat_Spec"                                 "%s1 (Team): %s2"
+    //"Cstrike_Chat_AllSpec"                              "%s1 [Spec]: %s2"
 
     // Player awards
     "Player_Cash_Award_Bomb_Defused"                    " +$%s1 • Bomb defused"
