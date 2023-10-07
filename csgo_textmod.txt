@@ -74,12 +74,10 @@
     "Player_Cash_Award_Kill_Teammate"                   " -$%s1 • Teamkill"
     "Player_Cash_Award_Killed_Enemy"                    " +$%s1 • Kill with %s2"
     "Player_Cash_Award_Killed_Enemy_Generic"            " +$%s1 • Kill"
-    "Player_Cash_Award_Killed_VIP"                      " +$%s1 • VIP kill"
     "Player_Cash_Award_Rescued_Hostage"                 " +$%s1 • Hostage rescued"
     "Player_Cash_Award_Respawn"                         " +$%s1 • Respawn"
 
     // Team awards
-    "Team_Cash_Award_CT_VIP_Escaped"                    " +$%s1 • Evac'ed the VIP"
     "Team_Cash_Award_Custom"                            " +$%s1 • %s2"
     "Team_Cash_Award_Elim_Bomb"                         " +$%s1 • Team elimination"
     "Team_Cash_Award_Elim_Hostage"                      " +$%s1 • Team elimination"
@@ -89,18 +87,16 @@
     "Team_Cash_Award_Loser_Bonus"                       " +$%s1 • Round lost"
     "Team_Cash_Award_Loser_Bonus_Neg"                   " -$%s1 • Round lost"
     "Team_Cash_Award_Bonus_Shorthanded"                 " +$%s1 • Short-handed income"
-    "Team_Cash_Award_Loser_Zero"                        " -$%s1 • Dead players on losing team"
     "Team_Cash_Award_Planted_Bomb_But_Defused"          " +$%s1 • Bomb planted"
     "Team_Cash_Award_Rescued_Hostage"                   " +$%s1 • Hostage rescued"
     "Team_Cash_Award_Survive_GuardianMode_Wave"         " +$%s1 • Survived the wave"
-    "Team_Cash_Award_T_VIP_Killed"                      " +$%s1 • Neutralized the VIP"
     "Team_Cash_Award_T_Win_Bomb"                        " +$%s1 • Bomb exploded"
     "Team_Cash_Award_Win_Defuse_Bomb"                   " +$%s1 • Bomb defused"
     "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Hostage rescued"
     "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Hostages rescued"
     "Team_Cash_Award_Win_Time"                          " +$%s1 • Time is up"
-    "Team_Cash_Award_no_income"                         " +$0 • Time is up"
-    "Team_Cash_Award_no_income_suicide"                 " +$0 • Suicide"
+    "Team_Cash_Award_No_Income"                         " +$0 • Time is up"
+    "Team_Cash_Award_No_Income_Suicide"                 " +$0 • Suicide"
 
     // Deathmatch points
     "Player_Point_Award_Assist_Enemy"                   " +%s1 • Assisted killing %s2"
