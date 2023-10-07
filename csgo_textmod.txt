@@ -1,7 +1,7 @@
 "Source"                                                "https://github.com/xPaw/CS2"
 "Tokens"
 {
-	// Spaces are required before color codes due to a bug (?). Otherwise, the colors don't work.
+    // Spaces are required before color codes due to a bug (?). Otherwise, the colors don't work.
 
     // Alerts
     "Cstrike_TitlesTXT_Bomb_Defused"                    "Bomb defused."
