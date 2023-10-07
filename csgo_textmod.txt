@@ -1,4 +1,4 @@
-"Source"                                                "https://gist.github.com/xPaw/056b29be7ae9c143ed623a9c4c10cf50"
+"Source"                                                "https://github.com/xPaw/CS2"
 "Tokens"
 {
     // Alerts
