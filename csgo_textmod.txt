@@ -32,8 +32,8 @@
     "SFUI_WPNHUD_Decoy"                                 "Decoy"
 
     "Cstrike_game_join_spectators"                      " %s1 joined Spectators"
-    "Cstrike_game_join_terrorist"                       " %s1 joined T"
-    "Cstrike_game_join_ct"                              " %s1 joined CT"
+    "Cstrike_game_join_terrorist"                       " %s1 joined Ts"
+    "Cstrike_game_join_ct"                              " %s1 joined CTs"
     "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
     "csgo_player_left_game"                             " %s1 left (%s2)"
 
@@ -63,15 +63,16 @@
     // Player awards
     "Player_Cash_Award_Bomb_Defused"                    " +$%s1 • Bomb defused"
     "Player_Cash_Award_Bomb_Planted"                    " +$%s1 • Bomb planted"
-    "Player_Cash_Award_Damage_Hostage"                  " -$%s1 • Hostage wounded"
     "Player_Cash_Award_Get_Killed"                      " +$%s1 • Eliminated"
     "Player_Cash_Award_Interact_Hostage"                " +$%s1 • Hostage reached"
-    "Player_Cash_Award_Kill_Hostage"                    " -$%s1 • Hostage killed"
-    "Player_Cash_Award_Kill_Teammate"                   " -$%s1 • Teamkill"
     "Player_Cash_Award_Killed_Enemy"                    " +$%s1 • Kill with %s2"
     "Player_Cash_Award_Killed_Enemy_Generic"            " +$%s1 • Kill"
     "Player_Cash_Award_Rescued_Hostage"                 " +$%s1 • Hostage rescued"
     "Player_Cash_Award_Respawn"                         " +$%s1 • Respawn"
+
+    "Player_Cash_Award_Damage_Hostage"                  " -$%s1 • Hostage wounded"
+    "Player_Cash_Award_Kill_Hostage"                    " -$%s1 • Hostage killed"
+    "Player_Cash_Award_Kill_Teammate"                   " -$%s1 • Teammate killed"
 
     // Team awards
     "Team_Cash_Award_Custom"                            " +$%s1 • %s2"
@@ -81,7 +82,6 @@
     "Team_Cash_Award_Hostage_Alive"                     " +$%s1 • Hostages survived"
     "Team_Cash_Award_Hostage_Interaction"               " +$%s1 • Hostage reached"
     "Team_Cash_Award_Loser_Bonus"                       " +$%s1 • Round lost"
-    "Team_Cash_Award_Loser_Bonus_Neg"                   " -$%s1 • Round lost"
     "Team_Cash_Award_Bonus_Shorthanded"                 " +$%s1 • Short-handed income"
     "Team_Cash_Award_Planted_Bomb_But_Defused"          " +$%s1 • Bomb planted"
     "Team_Cash_Award_Rescued_Hostage"                   " +$%s1 • Hostage rescued"
@@ -91,6 +91,8 @@
     "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Hostage rescued"
     "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Hostages rescued"
     "Team_Cash_Award_Win_Time"                          " +$%s1 • Time is up"
+
+    "Team_Cash_Award_Loser_Bonus_Neg"                   " -$%s1 • Round lost"
     "Team_Cash_Award_No_Income"                         " $0 • Time is up"
     "Team_Cash_Award_No_Income_Suicide"                 " $0 • Suicide"
 
@@ -103,13 +105,13 @@
     "Player_Point_Award_Killed_Enemy_NoWeapon_Plural"   " +%s1 • Kill"
 
     // Suicides
-    "Player_Cash_Award_ExplainSuicide_EnemyGotCash"     " %s1 committed suicide, enemy player received a bonus"
+    "Player_Cash_Award_ExplainSuicide_EnemyGotCash"     " %s1 committed suicide, an enemy player was awarded compensation"
     "Player_Cash_Award_ExplainSuicide_Spectators"       " %s3 received +$%s2 for the suicide of %s1"
     "Player_Cash_Award_ExplainSuicide_TeammateGotCash"  " %s3 received +$%s2 for the suicide of %s1"
     "Player_Cash_Award_ExplainSuicide_YouGotCash"       " +$%s2 • Suicide of %s1"
 
     // Short-hand income
-    "Notice_Bonus_Enemy_Team"                           " Enemies received $%s1 short-handed income"
+    "Notice_Bonus_Enemy_Team"                           " Enemies received +$%s1 short-handed income"
     "Notice_Bonus_Shorthanded_Eligibility"              " Short-handed income in %s1 rounds"
     "Notice_Bonus_Shorthanded_Eligibility_Single"       " Short-handed income in 1 round"
 
