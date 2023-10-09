@@ -95,8 +95,8 @@
     "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Hostage rescued"
     "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Hostages rescued"
     "Team_Cash_Award_Win_Time"                          " +$%s1 • Time is up"
-    "Team_Cash_Award_No_Income"                         " +$0 • Time is up"
-    "Team_Cash_Award_No_Income_Suicide"                 " +$0 • Suicide"
+    "Team_Cash_Award_No_Income"                         " $0 • Time is up"
+    "Team_Cash_Award_No_Income_Suicide"                 " $0 • Suicide"
 
     // Deathmatch points
     "Player_Point_Award_Assist_Enemy"                   " +%s1 • Assisted killing %s2"
