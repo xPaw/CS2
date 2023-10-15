@@ -77,7 +77,7 @@
     // Team awards
     "Team_Cash_Award_Elim_Bomb"                         " +$%s1 • Round won"
     "Team_Cash_Award_Elim_Hostage"                      " +$%s1 • Round won"
-    "Team_Cash_Award_T_Win_Bomb"                        " +$%s1 • Round won - bomb explosed"
+    "Team_Cash_Award_T_Win_Bomb"                        " +$%s1 • Round won - bomb exploded"
     "Team_Cash_Award_Win_Defuse_Bomb"                   " +$%s1 • Round won - bomb defused"
     "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Round won - hostage rescued"
     "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Round won - hostages rescued"
