@@ -82,7 +82,7 @@
     "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Round won - hostage rescued"
     "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Round won - hostages rescued"
     "Team_Cash_Award_Loser_Bonus"                       " +$%s1 • Round lost"
-    "Team_Cash_Award_Planted_Bomb_But_Defused"          " +$%s1 • Round lost - bomb defused"
+    "Team_Cash_Award_Planted_Bomb_But_Defused"          " +$%s1 • Team planted the bomb"
     "Team_Cash_Award_Generic"                           " +$%s1 • Team award"
     "Team_Cash_Award_Hostage_Alive"                     " +$%s1 • Hostages survived"
     "Team_Cash_Award_Hostage_Interaction"               " +$%s1 • Team reached a hostage"
