@@ -66,7 +66,7 @@
     "Player_Cash_Award_Get_Killed"                      " +$%s1 • Eliminated"
     "Player_Cash_Award_Interact_Hostage"                " +$%s1 • Hostage reached"
     "Player_Cash_Award_Killed_Enemy_Generic"            " +$%s1 • Kill"
-    "Player_Cash_Award_Killed_Enemy"                    " +$%s1 • Kill with %s2"
+    "Player_Cash_Award_Killed_Enemy"                    " +$%s1 • Kill • %s2"
     "Player_Cash_Award_Rescued_Hostage"                 " +$%s1 • Hostage rescued"
     "Player_Cash_Award_Respawn"                         " +$%s1 • Respawned"
 
@@ -77,10 +77,10 @@
     // Team awards
     "Team_Cash_Award_Elim_Bomb"                         " +$%s1 • Round won"
     "Team_Cash_Award_Elim_Hostage"                      " +$%s1 • Round won"
-    "Team_Cash_Award_T_Win_Bomb"                        " +$%s1 • Round won - bomb exploded"
-    "Team_Cash_Award_Win_Defuse_Bomb"                   " +$%s1 • Round won - bomb defused"
-    "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Round won - hostage rescued"
-    "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Round won - hostages rescued"
+    "Team_Cash_Award_T_Win_Bomb"                        " +$%s1 • Round won • Bomb exploded"
+    "Team_Cash_Award_Win_Defuse_Bomb"                   " +$%s1 • Round won • Bomb defused"
+    "Team_Cash_Award_Win_Hostage_Rescue"                " +$%s1 • Round won • Hostage rescued"
+    "Team_Cash_Award_Win_Hostages_Rescue"               " +$%s1 • Round won • Hostages rescued"
     "Team_Cash_Award_Loser_Bonus"                       " +$%s1 • Round lost"
     "Team_Cash_Award_Planted_Bomb_But_Defused"          " +$%s1 • Team planted the bomb"
     "Team_Cash_Award_Generic"                           " +$%s1 • Team award"
