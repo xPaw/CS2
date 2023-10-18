@@ -49,10 +49,10 @@
     "SFUI_TitlesTXT_Decoy_in_the_hole"                  "• Decoy"
 
     // Chat messages
-    "Game_radio_location"                               "%s1 [%s2]: %s3"
-    "Cstrike_Chat_CT_Loc"                               "%s1 [%s3] (Team): %s2"
-    "Cstrike_Chat_T_Loc"                                "%s1 [%s3] (Team): %s2"
     "Game_radio"                                        "%s1: %s2"
+    "Game_radio_location"                               "%s1 @ %s2: %s3"
+    "Cstrike_Chat_CT_Loc"                               "%s1 @ %s3 (Team): %s2"
+    "Cstrike_Chat_T_Loc"                                "%s1 @ %s3 (Team): %s2"
     "Cstrike_Chat_CT_Dead"                              "%s1 [Dead] (Team): %s2"
     "Cstrike_Chat_T_Dead"                               "%s1 [Dead] (Team): %s2"
     "Cstrike_Chat_CT"                                   "%s1 (Team): %s2"
