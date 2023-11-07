@@ -8,6 +8,8 @@
 - `csgo_textmod.txt` is placed in the right folder (it needs to be inside the CS2 `game\csgo\resource` folder)
 - Launch option is spelled correctly, this is an example that will work: `-novid -language textmod`
 
+To enable letters inside of a circle for teammate colors, use `cl_teammate_colors_show 2`
+
 ![](screenshot.png)
 
 This was based on bananagaming text mod, but I have been modifying it over the years for CS:GO.
