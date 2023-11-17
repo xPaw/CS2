@@ -38,6 +38,10 @@
     "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
     "csgo_player_left_game"                             " %s1 left (%s2)"
 
+    // Remove extra space, use blue for defusing
+    "Cstrike_TitlesTXT_Defusing_Bomb"                   "DEFUSING!"
+    "Cstrike_TitlesTXT_Planting_Bomb"                   "PLANTING!"
+
     // Swap colors between these two
     "SFUI_TitlesTXT_Flashbang_in_the_hole"              "Flashbang!"
     "SFUI_TitlesTXT_Decoy_in_the_hole"                  "Decoy!"
