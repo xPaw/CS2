@@ -26,7 +26,7 @@
     "SFUI_WPNHUD_HEGrenade"                             "HE Grenade"
     "SFUI_WPNHUD_Molotov"                               "Molotov"
     "SFUI_WPNHUD_IncGrenade"                            "Incendiary"
-    "SFUI_WPNHUD_Flashbang"                             "Flash"
+    "SFUI_WPNHUD_Flashbang"                             "Flashbang"
     "SFUI_WPNHUD_Smoke_Grenade"                         "Smoke"
     "SFUI_WPNHUD_SmokeGrenade"                          "Smoke"
     "SFUI_WPNHUD_Decoy"                                 "Decoy"
