@@ -36,7 +36,7 @@
     "Cstrike_game_join_terrorist"                       " %s1 joined Ts"
     "Cstrike_game_join_ct"                              " %s1 joined CTs"
     "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
-    "csgo_player_left_game"                             " %s1 left (%s2)"
+    "csgo_player_left_game"                             " %s1 left • %s2"
 
     // Remove extra space, use blue for defusing
     "Cstrike_TitlesTXT_Defusing_Bomb"                   "DEFUSING!"
