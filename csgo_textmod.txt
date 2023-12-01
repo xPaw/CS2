@@ -31,20 +31,12 @@
     "SFUI_WPNHUD_SmokeGrenade"                          "Smoke"
     "SFUI_WPNHUD_Decoy"                                 "Decoy"
 
-    // 2023-11-17 update added colors to these messages but they don't work due to a missing space
-    "Cstrike_game_join_spectators"                      " %s1 joined Spectators"
-    "Cstrike_game_join_terrorist"                       " %s1 joined Ts"
-    "Cstrike_game_join_ct"                              " %s1 joined CTs"
-    "Cstrike_TitlesTXT_Game_teammate_attack"            " %s1 attacked a teammate"
+    // Format similar to cash messages
     "csgo_player_left_game"                             " %s1 left • %s2"
 
     // Remove extra space, use blue for defusing
     "Cstrike_TitlesTXT_Defusing_Bomb"                   "DEFUSING!"
     "Cstrike_TitlesTXT_Planting_Bomb"                   "PLANTING!"
-
-    // Swap colors between these two
-    "SFUI_TitlesTXT_Flashbang_in_the_hole"              "Flashbang!"
-    "SFUI_TitlesTXT_Decoy_in_the_hole"                  "Decoy!"
 
     // Player awards
     "Player_Cash_Award_Bomb_Defused"                    " +$%s1 • Bomb defused"
