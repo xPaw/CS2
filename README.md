@@ -1,5 +1,8 @@
 # Installing text mod
 
+> [!CAUTION]
+> CS2 has disabled text mods on 14 December, 2023. This no longer works.
+
 1. [Click this link to download the file](https://raw.githubusercontent.com/xPaw/CS2/main/csgo_textmod.txt) (Press <kbd>Ctrl+S</kbd>)
 2. Save this file as `csgo_textmod.txt` and put it inside this folder: `Steam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\resource`
 3. Add `-language textmod` to your launch options
