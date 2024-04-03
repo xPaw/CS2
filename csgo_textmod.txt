@@ -17,10 +17,6 @@
     "hostagerescuetime"                                 " CTs got more time by reaching a hostage"
     "SFUI_Notice_All_Players_Connected"                 " Match will start in %s1 seconds"
 
-    // Graffiti menu
-    "CSGO_Spray_Auto_Toggle"                            "Quick Graffiti"
-    "CSGO_No_Sprays"                                    "You do not have any opened graffiti"
-
     // Shorter names
     "SFUI_WPNHUD_HE_Grenade"                            "HE Grenade"
     "SFUI_WPNHUD_HEGrenade"                             "HE Grenade"
