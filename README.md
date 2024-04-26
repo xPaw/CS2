@@ -1,7 +1,7 @@
 # Installing text mod
 
-> [!NOTE]
-> CS2 has disabled text mods on 14 December, 2023. But it is possible to work around that by creating a close captions file.
+> [!WARNING]
+> Text mod no longer works.
 
 1. [Click this link to download the file](https://raw.githubusercontent.com/xPaw/CS2/main/csgo_textmod.txt) (Press <kbd>Ctrl+S</kbd>)
 2. Go to this folder: `Steam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\resource`
