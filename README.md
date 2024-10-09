@@ -1,3 +1,16 @@
+# Installing practice config
+
+1. [Click this link to download the file](https://raw.githubusercontent.com/xPaw/CS2/main/cs2practice.cfg) (Press <kbd>Ctrl+S</kbd>)
+2. Save this file as `practice.cfg` and put it inside this folder: `Steam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\cfg`
+3. Load a map locally
+4. `exec practice` in console
+
+## Automatically execute the config when using `map` command
+
+Name the file `listenserver.cfg`, then the game will automatically execute it whenever starting a local server.
+
+----
+
 # Installing text mod
 
 > [!WARNING]
@@ -13,12 +26,3 @@ It should look like this: `game\csgo\resource\subtitles\closecaption_english.txt
 To enable letters inside of a circle for teammate colors, use `cl_teammate_colors_show 2`
 
 This was based on bananagaming text mod, but I have been modifying it over the years for CS:GO.
-
-----
-
-# Installing practice config
-
-1. [Click this link to download the file](https://raw.githubusercontent.com/xPaw/CS2/main/cs2practice.cfg) (Press <kbd>Ctrl+S</kbd>)
-2. Save this file as `practice.cfg` and put it inside this folder: `Steam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\cfg`
-3. Load a map locally
-4. `exec practice` in console
